@@ -1,5 +1,8 @@
 # Workshop 4 -- Coin Detection Using OpenCV in Python
 
+## Name : Santhose Arockiaraj J
+## RegNo: 212224230248
+
 ## Aim
 
 To detect and count coins in an input image using OpenCV by applying
@@ -150,22 +153,31 @@ plt.show()
 
 ## Output
 
-1.  **Original Image:** Displays the input coin image loaded from
-    `coin.jpg`.
-2.  **Grayscale Image:** Displays the input image converted into
-    grayscale.
-3.  **Blurred Image:** Displays the grayscale image after applying
-    Gaussian blur to reduce noise.
-4.  **Edge Detection (Canny):** Displays the edges identified using the
-    Canny edge detector.
-5.  **Detected Coins:** Displays the original image with green circles
-    around detected coins and red numerical labels at their centres.
-6.  **Total Coin Count:** Prints the total number of coins detected by
-    the program.
+**Original Image:** Displays the input coin image loaded from `coin.jpg`.
 
-*Note: The detected coin count depends on the input image and the
-selected contour-area and radius thresholds. Keep `coin.jpg` in the
-notebook's working directory before running the program.*
+<img width="450" height="452" alt="image" src="https://github.com/user-attachments/assets/1404e6b4-3206-4b25-b897-ea8cd799e77d" />
+
+
+**Grayscale Image:** Displays the input image converted into grayscale.
+
+<img width="450" height="452" alt="image" src="https://github.com/user-attachments/assets/f08aa389-1400-48a9-9a1f-37781d53080a" />
+
+**Blurred Image:** Displays the grayscale image after applying Gaussian blur to reduce noise.
+
+<img width="441" height="450" alt="image" src="https://github.com/user-attachments/assets/09e926f0-c705-4927-a8ce-deb14e0da761" />
+
+**Edge Detection (Canny):** Displays the edges identified using the Canny edge detector.
+
+<img width="438" height="447" alt="image" src="https://github.com/user-attachments/assets/e6b13e04-0d4b-431c-b922-7881bf20cfaa" />
+
+**Detected Coins:** Displays the original image with green circles around detected coins and red numerical labels at their centres.
+
+<img width="439" height="467" alt="image" src="https://github.com/user-attachments/assets/f85a039b-0da3-41e4-8bb8-622135d62f4b" />
+
+**Total Coin Count:** Prints the total number of coins detected by the program.
+
+<img width="222" height="36" alt="image" src="https://github.com/user-attachments/assets/bf3dbc2d-df2c-4a92-8825-f356c5fe9a1a" />
+
 
 ## Result
 
